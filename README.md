@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-	<img align="center" alt="i" src="https://github.com/ACMUD/Linux-Fundamentals/assets/90933717/273e9edd-52e1-4325-ae12-4f2bdf0a9b47" width="45%">
+	<img align="center" alt="i" src="https://github.com/ACMUD/Linux-Fundamentals/assets/90933717/273e9edd-52e1-4325-ae12-4f2bdf0a9b47" width="65%">
 </picture>
 </p>
 
